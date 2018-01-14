@@ -1,4 +1,4 @@
-Package: xgboost
+Package: xgboost2
 Type: Package
 Title: Extreme Gradient Boosting
 Version: 0.6.4.8
